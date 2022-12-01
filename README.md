@@ -1,1 +1,1 @@
-#Figma Design Tokens"
+#Figma Design Tokens
