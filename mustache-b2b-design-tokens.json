@@ -48,6 +48,10 @@
       "spacing-04": {
         "value": "12",
         "type": "spacing"
+      },
+      "spacing-05": {
+        "value": "16",
+        "type": "spacing"
       }
     },
     "breakpoints": {
