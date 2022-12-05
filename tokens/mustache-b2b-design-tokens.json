@@ -30,45 +30,62 @@
             "type": "color"
           }
         }
+      },
+      "brand": {
+        "primary": {
+          "value": "#151515",
+          "type": "color",
+          "description": "A short description"
+        },
+        "white": {
+          "value": "#ffffff",
+          "type": "color"
+        }
+      },
+      "primary": {
+        "base": {
+          "value": "#063dff",
+          "type": "color"
+        }
       }
     },
     "spacing": {
-      "spacing-01": {
-        "value": "2",
+      "01": {
+        "value": "2px",
         "type": "spacing"
       },
-      "spacing-02": {
-        "value": "4",
+      "02": {
+        "value": "4px",
         "type": "spacing"
       },
-      "spacing-03": {
-        "value": "8",
+      "03": {
+        "value": "8px",
         "type": "spacing"
       },
-      "spacing-04": {
-        "value": "12",
+      "04": {
+        "value": "12px",
         "type": "spacing"
       },
-      "spacing-05": {
-        "value": "16",
+      "05": {
+        "value": "16px",
         "type": "spacing"
       }
     },
     "breakpoints": {
       "sm": {
-        "value": "0",
+        "value": "0px",
         "type": "other"
       },
       "md": {
-        "value": "600",
+        "value": "600px",
         "type": "other"
       },
       "lg": {
-        "value": "905",
+        "value": "905px",
         "type": "other"
       },
       "xl": {
-        "value": "1280",
+        "value": "1280px",
         "type": "other"
       }
     }
