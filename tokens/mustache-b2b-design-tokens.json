@@ -73,19 +73,19 @@
     },
     "breakpoints": {
       "sm": {
-        "value": "0",
+        "value": "0px",
         "type": "other"
       },
       "md": {
-        "value": "600",
+        "value": "600px",
         "type": "other"
       },
       "lg": {
-        "value": "905",
+        "value": "905px",
         "type": "other"
       },
       "xl": {
-        "value": "1280",
+        "value": "1280px",
         "type": "other"
       }
     }
