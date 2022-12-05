@@ -1,0 +1,25 @@
+{
+  "source": ["tokens/style-dictionary.json"],
+  "platforms": {
+    "css": {
+      "transformGroup": "css",
+      "buildPath": "build/",
+      "files": [
+        {
+          "destination": "css/variables.css",
+          "format": "css/variables"
+        }
+      ]
+    },
+    "scss": {
+      "transformGroup": "scss",
+      "buildPath": "build/",
+      "files": [
+        {
+          "destination": "scss/_variables.scss",
+          "format": "scss/variables"
+        }
+      ]
+    }
+  }
+}
