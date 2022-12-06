@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+  Do not edit directly
+  Generated on Tue, 06 Dec 2022 18:04:24 GMT
+-->
+<resources>
+  <color name="mds_color_brand_primary">#ff151515</color>
+  <color name="mds_color_brand_white">#ffffffff</color>
+  <color name="mds_color_primary_base">#fff20a71</color>
+  <color name="mds_color_neutrals_bg_medium">#fff4f3f2</color>
+  <color name="mds_color_neutrals_bg_strong">#ff010103</color>
+  <color name="mds_color_neutrals_bg_hover">#ffededed</color>
+  <color name="mds_color_neutrals_bg_active">#ffcdcdce</color>
+  <color name="mds_color_neutrals_bg_base">#ffffffff</color>
+  <color name="mds_color_neutrals_border_base">#ffcdcdce</color>
+  
+</resources>
