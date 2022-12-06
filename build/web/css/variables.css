@@ -1,0 +1,25 @@
+/**
+ * Do not edit directly
+ * Generated on Tue, 06 Dec 2022 18:04:24 GMT
+ */
+
+:root {
+  --mds-spacing-01: 2px;
+  --mds-spacing-02: 4px;
+  --mds-spacing-03: 8px;
+  --mds-spacing-04: 12px;
+  --mds-spacing-05: 16px;
+  --mds-breakpoints-sm: 0px;
+  --mds-breakpoints-md: 600px;
+  --mds-breakpoints-lg: 905px;
+  --mds-breakpoints-xl: 1280px;
+  --mds-color-brand-primary: #151515;
+  --mds-color-brand-white: #ffffff;
+  --mds-color-primary-base: #f20a71;
+  --mds-color-neutrals-bg-medium: #f4f3f2;
+  --mds-color-neutrals-bg-strong: #010103;
+  --mds-color-neutrals-bg-hover: #ededed;
+  --mds-color-neutrals-bg-active: #cdcdce;
+  --mds-color-neutrals-bg-base: #ffffff;
+  --mds-color-neutrals-border-base: #cdcdce;
+}
