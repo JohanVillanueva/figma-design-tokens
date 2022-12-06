@@ -7,7 +7,11 @@
   "license": "MIT",
   "private": true,
   "scripts": {
-    "clean-json": "npx token-transformer tokens/mustache-b2b-design-tokens.json tokens/style-dictionary.json global",
-    "create-tokens": "yarn clean-json && npx style-dictionary build --config config.json"
+    "clean-json": "token-transformer tokens/mustache-b2b-design-tokens.json tokens/style-dictionary.json global",
+    "create-tokens": "yarn clean-json && style-dictionary build --config config.js"
+  },
+  "devDependencies": {
+    "style-dictionary": "3.7.1",
+    "token-transformer": "0.0.28"
   }
 }

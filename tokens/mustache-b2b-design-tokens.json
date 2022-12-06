@@ -1,54 +1,5 @@
 {
   "global": {
-    "colors": {
-      "neutrals": {
-        "bg": {
-          "medium": {
-            "value": "#F4F3F2",
-            "type": "color"
-          },
-          "strong": {
-            "value": "#010103",
-            "type": "color"
-          },
-          "hover": {
-            "value": "#EDEDED",
-            "type": "color"
-          },
-          "active": {
-            "value": "#CDCDCE",
-            "type": "color"
-          },
-          "base": {
-            "value": "#FFFFFF",
-            "type": "color"
-          }
-        },
-        "border": {
-          "base": {
-            "value": "#CDCDCE",
-            "type": "color"
-          }
-        }
-      },
-      "brand": {
-        "primary": {
-          "value": "#151515",
-          "type": "color",
-          "description": "A short description"
-        },
-        "white": {
-          "value": "#ffffff",
-          "type": "color"
-        }
-      },
-      "primary": {
-        "base": {
-          "value": "#063dff",
-          "type": "color"
-        }
-      }
-    },
     "spacing": {
       "01": {
         "value": "2px",
@@ -87,6 +38,55 @@
       "xl": {
         "value": "1280px",
         "type": "other"
+      }
+    },
+    "color": {
+      "brand": {
+        "primary": {
+          "value": "#151515",
+          "type": "color",
+          "description": "A short description"
+        },
+        "white": {
+          "value": "#ffffff",
+          "type": "color"
+        }
+      },
+      "primary": {
+        "base": {
+          "value": "#063dff",
+          "type": "color"
+        }
+      },
+      "neutrals": {
+        "bg": {
+          "medium": {
+            "value": "#f4f3f2",
+            "type": "color"
+          },
+          "strong": {
+            "value": "#010103",
+            "type": "color"
+          },
+          "hover": {
+            "value": "#ededed",
+            "type": "color"
+          },
+          "active": {
+            "value": "#cdcdce",
+            "type": "color"
+          },
+          "base": {
+            "value": "#ffffff",
+            "type": "color"
+          }
+        },
+        "border": {
+          "base": {
+            "value": "#cdcdce",
+            "type": "color"
+          }
+        }
       }
     }
   },
