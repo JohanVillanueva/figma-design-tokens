@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 06 Dec 2022 21:55:00 GMT
+// Generated on Wed, 14 Dec 2022 04:04:03 GMT
 
 
 #import "StyleDictionaryProperties.h"
@@ -102,7 +102,7 @@
       },
     @"primary": @{
       @"base": @{
-        @"value": [UIColor colorWithRed:0.925f green:0.000f blue:0.000f alpha:1.000f],
+        @"value": [UIColor colorWithRed:0.000f green:0.290f blue:1.000f alpha:1.000f],
         @"name": @"MdsColorPrimaryBase",
         @"category": @"color",
         @"type": @"primary",
