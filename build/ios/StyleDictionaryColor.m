@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 14 Dec 2022 04:16:36 GMT
+// Generated on Thu, 15 Dec 2022 18:16:58 GMT
 
 
 #import "StyleDictionaryColor.h"
@@ -23,7 +23,7 @@
     colorArray = @[
 [UIColor colorWithRed:0.082f green:0.082f blue:0.082f alpha:1.000f],
 [UIColor colorWithRed:1.000f green:1.000f blue:1.000f alpha:1.000f],
-[UIColor colorWithRed:0.145f green:0.545f blue:0.847f alpha:1.000f],
+[UIColor colorWithRed:0.000f green:0.996f blue:0.129f alpha:1.000f],
 [UIColor colorWithRed:0.957f green:0.953f blue:0.949f alpha:1.000f],
 [UIColor colorWithRed:0.004f green:0.004f blue:0.012f alpha:1.000f],
 [UIColor colorWithRed:0.929f green:0.929f blue:0.929f alpha:1.000f],
