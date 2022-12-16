@@ -2,12 +2,12 @@
 
 <!--
   Do not edit directly
-  Generated on Thu, 15 Dec 2022 18:16:58 GMT
+  Generated on Fri, 16 Dec 2022 16:20:21 GMT
 -->
 <resources>
   <color name="mds_color_brand_primary">#ff151515</color>
   <color name="mds_color_brand_white">#ffffffff</color>
-  <color name="mds_color_primary_base">#ff00fe21</color>
+  <color name="mds_color_primary_base">#fff00639</color>
   <color name="mds_color_neutrals_bg_medium">#fff4f3f2</color>
   <color name="mds_color_neutrals_bg_strong">#ff010103</color>
   <color name="mds_color_neutrals_bg_hover">#ffededed</color>
